@@ -16,7 +16,7 @@ namespace OCIO_NAMESPACE
 {
 
 class ColorSpace::Impl
-{
+{ 
 public:
     std::string m_name;
     std::string m_family;
